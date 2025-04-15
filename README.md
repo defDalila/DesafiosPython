@@ -11,6 +11,7 @@
 <img height=40px src="img/Github-Dark.svg"/>
 </p>
 
+<br/>
 
 ## 🍼 ***Nível Básico*** 
 
@@ -24,3 +25,5 @@
 - 💻 [***Conhecendo Tuplas em Python***](basic/04_utilizando_tuplas/README.md)
 
 - 💻 [***Explorando Conjuntos em Python***](basic/05_explorando_conjuntos/README.md)
+
+- 💻 [***Dominando Dicionários***](basic/06_dominando_dicionarios/README.md)
