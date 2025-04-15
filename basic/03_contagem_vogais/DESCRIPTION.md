@@ -7,15 +7,15 @@ Neste desafio, implemente uma solução para completar a função conta_vogais q
 
 ### ✏️ Para resolver este desafio, siga os passos abaixo 
 
-- [ ] :feet: Defina um conjunto de vogais: Primeiramente, crie um conjunto contendo todas as vogais sem acentuação, incluindo tanto letras minúsculas quanto maiúsculas.
+- [x] :feet: Defina um conjunto de vogais: Primeiramente, crie um conjunto contendo todas as vogais sem acentuação, incluindo tanto letras minúsculas quanto maiúsculas.
 
-- [ ] :feet:  Inicialize um contador: Em seguida, crie uma variável para contar o número de vogais encontradas na string, começando com zero.
+- [x] :feet:  Inicialize um contador: Em seguida, crie uma variável para contar o número de vogais encontradas na string, começando com zero.
 
-- [ ] :feet:  Itere pelos caracteres da string: Aqui percorremos cada caractere na string de entrada para verificar se é uma vogal.
+- [x] :feet:  Itere pelos caracteres da string: Aqui percorremos cada caractere na string de entrada para verificar se é uma vogal.
 
-- [ ] :feet: Verifique se o caractere é uma vogal: Para cada caractere, verifique se ele está presente no conjunto de vogais definido no passo 1. Se o caractere for uma vogal, incremente o contador em 1.
+- [x] :feet: Verifique se o caractere é uma vogal: Para cada caractere, verifique se ele está presente no conjunto de vogais definido no passo 1. Se o caractere for uma vogal, incremente o contador em 1.
 
-- [ ] :feet: Retorne o contador: Após percorrer todos os caracteres da string, retorne o valor do contador, que representa o número total de vogais na string.
+- [x] :feet: Retorne o contador: Após percorrer todos os caracteres da string, retorne o valor do contador, que representa o número total de vogais na string.
 
 ### ⌨️ Entrada
 
