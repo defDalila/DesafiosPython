@@ -1,6 +1,7 @@
 
 # <p align="center"> Desafios de Código Python </p>
 
+<p align="center"><i>Desafios e exercícios propóstos em diversos cursos realizados!</i></p>
 
 <p align="center">
 <img height=40px src="img/Python-Dark.svg"/>
