@@ -14,6 +14,9 @@
 ## 🍼 Nível Básico 
 
 
-- [x] [Verificação de Paridade :dart:](basic/verificacao_paridade/DESCRIPTION.md)
+- [x] [Verificação de Paridade :dart:](basic/01_verificacao_paridade/README.md)
 
-- [x] [Verificador de Ano Bissexto :dart:](basic/verificador_ano_bissexto/DESCRIPTION.md)
+- [x] [Verificador de Ano Bissexto :dart:](basic/02_verificador_ano_bissexto/README.md)
+
+- [X] [Contagem de Vogais :dart:](basic/03_contagem_vogais/README.md)
+
