@@ -23,3 +23,4 @@
 
 - 💻 [***Conhecendo Tuplas em Python***](basic/04_utilizando_tuplas/README.md)
 
+- 💻 [***Explorando Conjuntos em Python***](basic/05_explorando_conjuntos/README.md)
