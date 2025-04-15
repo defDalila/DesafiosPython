@@ -1,11 +1,11 @@
 # Contagem de Vogais :dart:
 
 
-## :memo: Descrição 
+## :memo: *Descrição* 
 
 Neste desafio, implemente uma solução para completar a função conta_vogais que conta o número de vogais em uma string fornecida como entrada. Vogais são caracteres específicos sem acentuação, incluindo tanto letras minúsculas quanto maiúsculas `(aeiouAEIOU)`.
 
-### ✏️ Para resolver este desafio, siga os passos abaixo 
+## ✏️ **Para resolver este desafio, siga os passos abaixo** 
 
 - [x] :feet: Defina um conjunto de vogais: Primeiramente, crie um conjunto contendo todas as vogais sem acentuação, incluindo tanto letras minúsculas quanto maiúsculas.
 
@@ -17,15 +17,15 @@ Neste desafio, implemente uma solução para completar a função conta_vogais q
 
 - [x] :feet: Retorne o contador: Após percorrer todos os caracteres da string, retorne o valor do contador, que representa o número total de vogais na string.
 
-### ⌨️ Entrada
+## ⌨️ **Entrada**
 
 A função recebe como entrada uma única string contendo letras/palavras.
 
-### 🎧 Saída
+## 🎧 **Saída**
 
 A função deve retornar um número inteiro que representa o total de vogais encontradas na string de entrada.
 
-### 📲 Exemplos
+## 📲 **Exemplos**
 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 

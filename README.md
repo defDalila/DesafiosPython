@@ -1,7 +1,7 @@
 
 # <p align="center"> Desafios de Código Python </p>
 
-<p align="center"><i>Desafios e exercícios propóstos em diversos cursos realizados!</i></p>
+<p align="center"><i>Desafios de código e e exercícios propostos em diversos cursos  de `python` realizados!</i></p>
 
 <p align="center">
 <img height=40px src="img/Python-Dark.svg"/>
@@ -12,12 +12,14 @@
 </p>
 
 
-## 🍼 Nível Básico 
+## 🍼 ***Nível Básico*** 
 
 
-- [x] [Verificação de Paridade :dart:](basic/01_verificacao_paridade/README.md)
+- 💻 [***Verificação de Paridade***](basic/01_verificacao_paridade/README.md)
 
-- [x] [Verificador de Ano Bissexto :dart:](basic/02_verificador_ano_bissexto/README.md)
+- 💻 [***Verificador de Ano Bissexto***](basic/02_verificador_ano_bissexto/README.md)
 
-- [X] [Contagem de Vogais :dart:](basic/03_contagem_vogais/README.md)
+- 💻 [***Contagem de Vogais***](basic/03_contagem_vogais/README.md)
+
+- 💻 [***Conhecendo Tuplas em Python***](basic/04_utilizando_tuplas/README.md)
 

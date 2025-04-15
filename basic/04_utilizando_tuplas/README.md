@@ -1,6 +1,5 @@
 # Conhecendo Tuplas em Python :dart:
 
-<br/>
 
 ## :memo: **Descrição** 
 
@@ -10,11 +9,11 @@ Desenvolva uma função em Python que recebe uma tupla de números inteiros e re
 
 ## 👣 **Etapas** 
 
-- [x] Converta cada string na `lista_strings` em um número inteiro utilizando a função `int()`.
+- ☑️ Converta cada string na `lista_strings` em um número inteiro utilizando a função `int()`.
 
-- [x] Use a função `map()` para aplicar a função `int()` a cada elemento da `lista_strings`.
+- ☑️ Use a função `map()` para aplicar a função `int()` a cada elemento da `lista_strings`.
   
-- [x] Armazene o resultado em uma variável chamada `elementos`.  
+- ☑️ Armazene o resultado em uma variável chamada `elementos`.  
 
 <br/>
 
